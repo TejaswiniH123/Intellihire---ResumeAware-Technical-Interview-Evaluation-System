@@ -119,8 +119,9 @@ npm install
 npm run dev
 
 
-Future Improvements
-NLP-based answer evaluation
-AI-based question generation from resume
-Real-time feedback system
-Enhanced UI/UX with advanced analytics
+### Future Improvements
+
+- NLP-based answer evaluation
+- AI-based question generation from resume
+- Real-time feedback system
+- Enhanced UI/UX with advanced analytics
