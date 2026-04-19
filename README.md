@@ -110,13 +110,13 @@ Weighted combination of multiple parameters
 
 ### Backend (Spring Boot)
 
-cd backend
-mvn spring-boot:run
+- cd backend
+- mvn spring-boot:run
 
 ### Frontend (React)
-cd intellihire-frontend
-npm install
-npm run dev
+- cd intellihire-frontend
+- npm install
+- npm run dev
 
 
 ### Future Improvements
